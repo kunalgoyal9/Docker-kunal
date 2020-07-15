@@ -1,0 +1,20 @@
+If docker missing : 
+
+sudo chown -R kunalgoyal.goyal9 /var/run/docker.sock (For permission denied)
+docker build -t "nameofyourchoice" .
+bash .sh file
+docker ps 
+docker images 
+docker exec -it imagename bash 
+Then go inside the docker and run python file . (Use python3 and not python in docker)
+
+
+sftp://kunalgoyal.goyal9@35.231.143.77/
+
+docker stop imagename
+docker rm imagename
+
+scp /home/Kunal/Desktop/Front_Rear/Dataset Kunal@35.247.117.107:/home/Kunal/Dataset/
+scp -r /home/Kunal/Desktop/Front_Rear/Dataset Kunal@35.247.117.107:/home/Kunal/Dataset/
+
+ctrl+D

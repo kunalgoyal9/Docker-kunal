@@ -1,0 +1,13 @@
+numpy
+opencv-python
+moviepy
+keras
+tensorflow-gpu==1.14.0
+distance
+PyYAML
+ptvsd
+IPython
+matplotlib
+scikit-image
+scikit-learn
+
